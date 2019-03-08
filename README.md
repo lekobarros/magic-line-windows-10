@@ -1,5 +1,6 @@
 # Magic Line - Windows 10 
-Inspired by the animation animation of the Microsoft Store application, I worked on this animation with the AnimeJS library to animate Fluent Design, bringing it to the web using CSS and Javascript.
+Inspired by the animation of the Microsoft Store application, I worked on this animation with the AnimeJS library to animate Fluent Design, bringing it to the web using CSS and Javascript.
+
 [Demo](https://lekobarros.github.io/magic-line-windows-10/)
 
 ## Compatibility
